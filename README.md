@@ -8,8 +8,8 @@ various concepts.
 
 The ones I wrote myself are, no doubt, not the most perfect Haskell
 out there. This repo is a learning exercise, not a demonstration of
-how Haskell really ought to be used.
+how Haskell really ought to be written.
 
 The repo is public in case someone else finds this stuff even halfway
 useful. (Plus, I think my ego can stand the inevitable ridicule for my
-ridiculous first attempts at Haskell.)
+less than stellar first attempts at Haskell.)
