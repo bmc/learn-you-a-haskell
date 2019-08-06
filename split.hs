@@ -1,6 +1,6 @@
--- Split a string on white space.
+-- Split a string on white space: Exercises.
 --
--- Will refine as I learn more.
+-- Note that Data.String.words pretty much obviates the need for any of these.
 
 import Data.Char -- to get "isSpace"
 
