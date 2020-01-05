@@ -1,6 +1,5 @@
 This repo contains various Haskell code snippets I saved while going
-through
-"[Learn You a Haskell for Great Good](http://learnyouahaskell.com/)".
+through "[Learn You a Haskell for Great Good](http://learnyouahaskell.com/)".
 
 Some are directly copied from the book, so I could experiment with them.
 Some are just functions I implemented to test my own understanding of
