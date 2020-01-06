@@ -2,3 +2,5 @@
 .idea
 stack.yaml.lock
 .stack-work
+*.o
+*.hi
